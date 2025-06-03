@@ -9,6 +9,10 @@
 
 ###
 
+<img align="right" height="150" src="https://i.pinimg.com/originals/1b/1b/64/1b1b6474872ac3b98e4b6b5eaf2c1c2b.gif" />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
@@ -36,17 +40,4 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="mailto:gustavohsouza.santos07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://github.com/GustavoHenrique-gg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GustavoHenrique-gg/GustavoHenrique-gg/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
+    <img src="https://img.shields.io/static/v1?message=Gmail&
