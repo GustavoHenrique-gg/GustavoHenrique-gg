@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
@@ -51,15 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/GustavoHenrique-gg/GustavoHenrique-gg/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-## 🌐 Onde me encontrar:
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ggustavohssantos10)  
-- 🐙 [GitHub](https://github.com/GustavoHenrique-gg)  
-- 📧 Email: gustavohsouza.santos07@gmail.com  
-
----
-
-<p align="center">🚀 Sempre em busca de evolução, conhecimento e novos desafios!</p>
-
+###
