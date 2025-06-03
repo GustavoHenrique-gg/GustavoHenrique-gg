@@ -64,13 +64,3 @@ Oops... Um erro de conexão no banco de dados te derrubou! Parece que alguém es
 ---
 
 <p align="center">🚀 Sempre em busca de evolução, conhecimento e novos desafios!</p>
-
-## 🌐 Conecte-se comigo!
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ggustavohssantos10)  
-- 🐙 [GitHub](https://github.com/GustavoHenrique-gg)  
-- 📧 Email: gustavohsouza.santos07@gmail.com  
-
-
-
-<p align="center">🚀 Sempre em busca de evolução e novos desafios!</p>
